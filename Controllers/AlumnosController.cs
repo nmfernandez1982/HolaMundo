@@ -26,6 +26,7 @@ namespace ProyClase3.Controllers
             new Pais(){Id=3,Nombre="Uruguay"},
             new Pais(){Id=4,Nombre="Paraguay"},
             new Pais(){Id=5,Nombre="Chile"},
+            //prueba
             new Pais(){Id=6,Nombre="Brasil"},
         };
         public IActionResult Index()
